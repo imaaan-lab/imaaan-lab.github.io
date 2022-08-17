@@ -17,6 +17,7 @@ Iot Makers in Daejeon 에서 지킬을 이용한 블로그 개설 방법을 알�
 bundle exec jekyll serve  
 bundle add webrick  
 <br/>
-git add -A  
-git commit -m "Updateing"  
+git init
+git add -A  혹은 git add .
+git commit -m "Add blog"  
 git push -u origin master  
