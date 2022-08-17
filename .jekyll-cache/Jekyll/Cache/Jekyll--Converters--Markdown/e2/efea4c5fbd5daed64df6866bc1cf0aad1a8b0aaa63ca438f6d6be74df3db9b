@@ -1,0 +1,28 @@
+I"w<p><a href="https://iot-maker-korea.github.io/">Iot Makers in Daejeon</a>에서 NodeMCU를 시작으로 아두이노, 라즈베리파이, 웹페이지 개설 등 여러 가지를 배움.
+<br />
+<br />
+<img src="/assets/img/dust.jpg" width="80%" height="90%" /> 
+<br />
+<br />
+###미세먼지 센서 처음 세팅한 모습입니다.
+<br />
+모임장님이 미센먼지 공구도 진행해주심..
+<br />
+뒤쪽에 보이는 게 NodeMCU로, 처음 모임오셔도 NodeMCU 할 수 있게 세팅해주십니다. 
+(미세먼지 세팅은 앞쪽에 있는 아두이노로 한 거라 NodeMCU는 이 세팅과 상관없어요.)
+<br />
+<br />
+<br />
+<img src="/assets/img/dust2.jpg" width="80%" height="90%" /> 
+<br />
+<br />
+미세먼지 수치를 LED에 표시할 수 있게 아두이노 세팅까지 해 봄. 뒤에 빵보드에 미세먼지 센서를 세팅했고 앞쪽 빵보드 위에 NodeMCU가 왠일인지 계속 올려져 있네요. <br />
+처음 세팅에서는 아두이노와 연결한 노트북 창에서 미세먼지 수치가 올라옵니다. <br />
+이번 세팅은 아두이노 전원을 따로 줘서 노트북없이 미세먼지 수치를 볼 수 있음.<br />
+아마 저 LED가 모임장님이 분양해주신 거였던 듯.
+<br />
+<br />
+<br />
+모임 홈페이지는 아래 주소입니다.<br />
+<a href="https://iot-maker-korea.github.io">https://iot-maker-korea.github.io</a></p>
+:ET
