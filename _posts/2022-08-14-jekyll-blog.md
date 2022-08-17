@@ -19,5 +19,14 @@ bundle add webrick
 <br/>
 git init
 git add -A  혹은 git add .
+<br/>
 git commit -m "Add blog"  
 git push -u origin master  
+<br/>
+<br/>
+<br/>
+github 연동하는 게 자료가 없어서 어려웠는데 이분의 포스팅이 도움이 되었음.ㅠㅠ
+블로그 구성은 내가 한 방법과는 달라요.
+<br/>
+[http://blog.hyeyoonjung.com/2017/05/22/how-to-write-posts]
+(http://blog.hyeyoonjung.com/2017/05/22/how-to-write-posts/)
