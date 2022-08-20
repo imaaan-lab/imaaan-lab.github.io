@@ -29,3 +29,4 @@ github 연동하는 게 자료가 없어서 어려웠는데
 [이분의 포스팅](http://blog.hyeyoonjung.com/2017/05/22/how-to-write-posts/) 이 도움이 되었음.ㅠㅠ
 블로그 구성은 내가 한 방법과는 달라요.
 <br/>
+http://blog.hyeyoonjung.com/2017/05/22/how-to-write-posts/
