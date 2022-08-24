@@ -18,7 +18,8 @@ bundle exec jekyll serve
 bundle add webrick  
 <br/>
 git init
-git add -A  혹은 git add .
+<br/>
+git add -A 혹은 git add .
 <br/>
 git commit -m "Add blog"  
 git push -u origin master  
